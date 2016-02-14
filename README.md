@@ -17,4 +17,5 @@ mmrbr.forbrazil / hosting jsp
 aws
 
 ##2016-
-??
+trying to move to RedHat OpenShift...
+ghost application running on blog.b1n.org (cname to blog-b1n.rhcloud.com)
